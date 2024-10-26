@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/mewxz029/algorithms_example/algorithms"
+	"github.com/mewxz029/algorithms_go/algorithms"
 )
 
 func main() {
